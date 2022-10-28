@@ -1,3 +1,48 @@
+# Bill Manager - React.js, Redux, Saga, Chart.js
+(by [@ombharatiya](https://www.linkedin.com/in/ombharatiya))
+
+- - -
+
+### A demo app to illustrate various features of a react.js application:
+
+**Check the deployed app here : [Bill Insights](https://bill-insights.now.sh/).**
+
+- - -
+## Problem Statement:
+
+Adithya owns a car wash business and needs help to manage various bills from his vendors.
+Build an application to help Adithya manage his monthly bills.
+
+
+## Functional requirements:
+
+- The user must be able to manually add, edit and remove bills. (update the state locally)
+- The user must be able to filter bills by category. (category filter dropdown)
+- Draw a time-series chart of the monthly billing cycle.
+
+
+## Screens:
+
+1. **Overview Page** - Shows monthly bills in a graph
+
+![Overview](overview-graph.PNG)
+
+
+
+2. **Create/Edit Bill Screen** - Create or edit bills on this screen using a simple form
+
+![Create/Edit Bill](create-new-bill-form.PNG)
+
+
+
+
+3. **List all Bills Screen** - Create or edit bills on this screen using a simple form
+
+![List all Bills Screen](all-bills-list.PNG)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
